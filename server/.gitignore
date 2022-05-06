@@ -1,0 +1,7 @@
+node_modules
+# Keep environment variables out of version control
+.env
+coverage
+build
+prisma/dev.db
+prisma/dev.db-journal
