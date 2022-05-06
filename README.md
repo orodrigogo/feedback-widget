@@ -1,6 +1,5 @@
 ![App Screenshot](.github/cover.png)
 
-# Feedback Widget
 Widget to send Feedback e-mail with  screenshot. This application was created for the purpose of studies.
 
 
